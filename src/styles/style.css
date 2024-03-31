@@ -1,0 +1,121 @@
+.container-fluid {
+    padding: 5% 15% 0;
+}
+
+.body {
+    text-align: center;
+    font-family: "Cambria";
+}
+
+
+/* TitleSection */
+
+.big-heading {
+    font-size: 3rem;
+    text-align: center;
+    line-height: 1.5;
+    font-family: "Cambria-Bold";
+}
+
+#title {
+    background-color: rgba(10, 83, 85, 0.445);
+    color: rgb(8, 4, 4);
+    padding-bottom: 7%;
+}
+
+#title .container-fluid {
+    padding: 1% 5% 7%;
+}
+
+
+/* navigationsection */
+
+.navbar-heading {
+    font-size: 2rem;
+    font-family: "Times New Roman";
+    padding: 0 0;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    color: #fff;
+    padding: 0 18px;
+}
+
+.description {
+    font-size: 3rem;
+    font-family: "Cambria";
+    text-align: left;
+    padding-bottom: 7%;
+}
+
+.m-img {
+    right: 30%;
+    width: 80%
+}
+
+
+/* testimonialsection */
+
+#testimonials {
+    text-align: center;
+    z-index: 1;
+}
+
+.testimonial-text {
+    font-size: 2.5rem;
+    padding-bottom: 7%;
+    line-height: 1.5;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-image {
+    width: 50%;
+}
+
+#press {
+    padding: 100px color white;
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.press-logo {
+    width: 10%;
+    margin: 20px 15px 10px;
+}
+
+
+
+
+
+/*feature-box section*/
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    text-align: center;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+.feature-box {
+    padding: 5%;
+}
+
+.icon {
+    color: #4B0082;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #4B0082;
+}
