@@ -2,6 +2,7 @@
 // import firebase from 'firebase/app';
 // import 'firebase/database';
 
+
 // const firebaseConfig = {
 //   apiKey: "AIzaSyC89H7sf9oE6pkXKv5EWxF-zR2d-W-OSKg",
 //   authDomain: "basic-banking-system-f38af.firebaseapp.com",
