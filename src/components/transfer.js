@@ -9,7 +9,7 @@ const TransferBalancePage = () => {
   const [receiver, setReceiver] = useState('');
   const [amount, setAmount] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
-
+ <h1> created by karan dubey </h1>
   // Function to handle form submission
   const handleSubmit = (event) => {
     event.preventDefault(); // Prevent the form from submitting normally
