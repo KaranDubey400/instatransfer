@@ -35,7 +35,7 @@ const HomePage = () => {
             </ul>
           </div>
         </nav>
-         <h1> create by karan dubey </h1> <br /> <br / >
+         <h1> created by karan dubey </h1> <br /> <br / >
         <h2 className="big-heading">"Invest in the red, it's in your interest" </h2>
         <h2>The headquarters of the company, the Maze Bank Tower, is located in Pillbox Hill, Downtown Los Santos. This skyscraper is the tallest building in San Andreas and the West Coast of the United States of America. The company also sponsors the Maze Bank Arena in La Puerta, the city's main stadium, and sponsors the Richards Majestic Productions film Meltdown.</h2>
         <br />
