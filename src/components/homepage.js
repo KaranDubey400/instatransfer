@@ -49,7 +49,7 @@ const HomePage = () => {
       <div className="container-fluid">
         <div className="row">
           <div className="col-lg-6">
-            <h1 className="description">BASIC BANKING SYSTEM</h1>
+            <h1 className="description">REAL TIME TRANSACTION SYSTEM </h1>
             <h1 className="description">Safe and Secure Transactions</h1>
           </div>
           <div className="col-lg-6">
